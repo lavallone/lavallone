@@ -24,17 +24,14 @@ education:
 fields_of_interests:
   [
     "Machine Learning",
+    "Human Robot Interaction",
+    "Renforcement Learning",
     "Computer Vision",
     "Natural Language Processing",
     "Large Language Models"
   ]
-technical_background:
-  [
-    "Navigation Team Member",
-    "NLP Researcher"
-  ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_working_on: ["Real-time video classification"]
 hobbies: ["Sport", "Rugby", "Hyking", "Coffee"]
 ```
 
