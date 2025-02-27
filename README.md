@@ -8,9 +8,8 @@
   <a href="https://www.linkedin.com/in/leonardo-lavalle-18445193/"> <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Lavalle-blue?logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 </p>
 
-<h2 align="center">👨‍💻 About Me:</h2>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=75" />
-
+<h2 align="left">👨‍💻 About Me:</h2>
 ```yaml
 name: Leonardo Lavalle
 located_in: Rome, Italy
@@ -38,8 +37,8 @@ currently_learning: ["Docker, Kubernetes, and React Native"]
 hobbies: ["Sport", "Rugby", "Hyking", "Coffee"]
 ```
 
-<h2 align="center">🚀 Some Languages and Tools Used So Far:</h2>
-<p align="center"> 
+<h2 align="left">🚀 Some Languages and Tools Used So Far:</h2>
+<p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
