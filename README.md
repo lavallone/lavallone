@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A passionate AI & Robotics Engineer from Rome 🇮🇹</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavallone&label=Profile%20views&color=0e75b6&style=flat" alt="lavallone" /> </p>
+<h2 align="center"><a href="https://imgur.com/YXaBMfN"><img src="https://i.imgur.com/YXaBMfN.gif" title="source: imgur.com" /></a></h2>
 
 - 🔭 I’m currently working on **semantic capabilities of LLMs**
 
@@ -25,4 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavallone&show_icons=true&locale=en" alt="lavallone" /></p>
 
+![Snake animation](https://github.com/lavallone/lavallone/blob/output/github-contribution-grid-snake.svg)
+
+![Spotify](https://novatorem-git-main-lavallones-projects.vercel.app/api/spotify)
 
