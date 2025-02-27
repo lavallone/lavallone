@@ -10,6 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=75" />
 <h2 align="left">👨‍💻 About Me:</h2>
+
 ```yaml
 name: Leonardo Lavalle
 located_in: Rome, Italy
