@@ -1,5 +1,10 @@
-<h2 align="center"><a href="https://imgur.com/cReol3y"><img src="https://i.imgur.com/cReol3y.gif" height=500 title="source: imgur.com" /></a></h2>
+<h1 align="center"><a href="https://imgur.com/cReol3y"><img src="https://i.imgur.com/cReol3y.gif" height=500 title="source: imgur.com" /></a></h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavallone&label=Profile%20views&color=blueviolet&style=flat" alt="lavallone" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavallone&label=Profile%20views&color=green&style=flat" alt="lavallone" /> </p>
+
+
+<p align="center">
 - 🔭 I’m currently working on **semantic capabilities of LLMs**
 
 - 👨‍💻 All of my projects are available at [in this repo](in this repo)
@@ -7,6 +12,7 @@
 - 📫 How to reach me **leo.lava99@gmail.com**
 
 - ⚡ Fun fact **I like Llamas!**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +30,6 @@
 
 ![Snake animation](https://github.com/lavallone/lavallone/blob/output/github-contribution-grid-snake.svg)
 
-![Spotify](https://novatorem-git-main-lavallones-projects.vercel.app/api/spotify)
 
+
+<!-- ![Spotify](https://novatorem-git-main-lavallones-projects.vercel.app/api/spotify) -->
