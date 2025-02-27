@@ -1,32 +1,44 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=75" />
 <a align="center" href="https://imgur.com/cReol3y"><img src="https://i.imgur.com/cReol3y.gif" height=500 title="source: imgur.com" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavallone&label=Profile%20views&color=blueviolet&style=flat" alt="lavallone" />
   <img src="https://img.shields.io/badge/Repositories-0-green" alt="Repositories">
   <img src="https://img.shields.io/badge/Commits%20this%20month-0-orange" alt="Commits this month">
-  <a href="mailto:leo.lava99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-leo.lava99@gmail.com-red?logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-lavalle-18445193/">
-    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Lavalle-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="mailto:leo.lava99@gmail.com"> <img src="https://img.shields.io/badge/Email-leo.lava99@gmail.com-red?logo=gmail&logoColor=white" alt="Email"> </a>
+  <a href="https://www.linkedin.com/in/leonardo-lavalle-18445193/"> <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Lavalle-blue?logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 </p>
 
+<h2 align="center">👨‍💻 About Me:</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=75" />
 
-<p align="center">
-- 🔭 I’m currently working on **semantic capabilities of LLMs**
+```yaml
+name: Leonardo Lavalle
+located_in: Rome, Italy
+current_job: AI freelancer
+education:
+  [
+    "Master's in AI and Robotics",
+    "Bachelor's in Computer and System Engineering",
+  ]
 
-- 👨‍💻 All of my projects are available at [in this repo](in this repo)
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Computer Vision",
+    "Natural Language Processing",
+    "Large Language Models"
+  ]
+technical_background:
+  [
+    "Navigation Team Member",
+    "NLP Researcher"
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+hobbies: ["Sport", "Rugby", "Hyking", "Coffee"]
+```
 
-- 📫 How to reach me **leo.lava99@gmail.com**
-
-- ⚡ Fun fact **I like Llamas!**
-</p>
-
-
-<h2 align="center">🚀 Languages and Tools used so far:</h2>
+<h2 align="center">🚀 Some Languages and Tools Used So Far:</h2>
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
