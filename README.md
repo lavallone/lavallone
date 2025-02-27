@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://imgur.com/YXaBMfN"><img src="https://i.imgur.com/YXaBMfN.gif" title="source: imgur.com" /></a></h2>
+<h2 align="center"><a href="https://imgur.com/YXaBMfN"><img src="https://i.imgur.com/YXaBMfN.gif" width="500" title="source: imgur.com" /></a></h2>
 
 - 🔭 I’m currently working on **semantic capabilities of LLMs**
 
