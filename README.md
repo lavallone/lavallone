@@ -45,48 +45,102 @@ hobbies: ["Rugby 🏉", "Travels ✈️", "Dance Music 🕺", "Coffee ☕"]
 <table>
   <thead>
     <tr>
-      <th>ID</th>
-      <th>Name</th>
-      <th>Age</th>
-      <th>Occupation</th>
-      <th>Location</th>
+      <th></th>
+      <th>Task</th>
+      <th>Type</th>
+      <th>Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
-      <td>John Doe</td>
-      <td>28</td>
-      <td>Software Engineer</td>
-      <td>New York</td>
+      <td>Anomaly Detection</td>
+      <th>paper</th>
+      <th></th>
     </tr>
     <tr>
       <td>2</td>
-      <td>Jane Smith</td>
-      <td>34</td>
-      <td>Data Scientist</td>
-      <td>San Francisco</td>
+      <td>Human Robot Interaction</td>
+      <th>report</th>
+      <th></th>
     </tr>
     <tr>
       <td>3</td>
-      <td>Mike Johnson</td>
-      <td>45</td>
-      <td>Product Manager</td>
-      <td>Chicago</td>
+      <td>Planning and Reasoning</td>
+      <th>paper</th>
+      <th></th>
     </tr>
     <tr>
       <td>4</td>
-      <td>Sarah Brown</td>
-      <td>30</td>
-      <td>UX Designer</td>
-      <td>Seattle</td>
+      <td>Event Detection</td>
+      <th>report</th>
+      <th></th>
     </tr>
     <tr>
       <td>5</td>
-      <td>David Wilson</td>
-      <td>50</td>
-      <td>CTO</td>
-      <td>Boston</td>
+      <td>Word Sense Disambiguation</td>
+      <th>report</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Word Sense Disambiguation</td>
+      <th>paper</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Word Sense Disambiguation</td>
+      <th>thesis</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Named Entity Recognition</td>
+      <th>report</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Extractive Summarization</td>
+      <th>report</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Extractive Summarization</td>
+      <th>report</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Reinforcement Learning</td>
+      <th>report</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Reinforcement Learning</td>
+      <th>report</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Reinforcement Learning</td>
+      <th>report</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Continual Learning</td>
+      <th>paper</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>NeSy</td>
+      <th>paper</th>
+      <th></th>
     </tr>
   </tbody>
 </table>
