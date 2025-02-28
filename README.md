@@ -47,99 +47,83 @@ hobbies: ["Rugby 🏉", "Travels ✈️", "Dance Music 🕺", "Coffee ☕"]
     <tr>
       <th></th>
       <th>Task</th>
-      <th>Type</th>
       <th>Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>🔬</td>
       <td>Anomaly Detection</td>
-      <th>paper</th>
       <th></th>
     </tr>
     <tr>
-      <td>2</td>
+      <td>📃</td>
       <td>Human Robot Interaction</td>
-      <th>report</th>
-      <th></th>
+      <th>EnviroMate: the social robot which raises awareness among students about recycling</th>
     </tr>
     <tr>
-      <td>3</td>
+      <td>🔬</td>
       <td>Planning and Reasoning</td>
-      <th>paper</th>
       <th></th>
     </tr>
     <tr>
-      <td>4</td>
+      <td>📃</td>
       <td>Event Detection</td>
-      <th>report</th>
       <th></th>
     </tr>
     <tr>
-      <td>5</td>
+      <td>📃</td>
       <td>Word Sense Disambiguation</td>
-      <th>report</th>
       <th></th>
     </tr>
     <tr>
-      <td>6</td>
+      <td>🔬</td>
       <td>Word Sense Disambiguation</td>
-      <th>paper</th>
       <th></th>
     </tr>
     <tr>
-      <td>7</td>
+      <td>🔬</td>
       <td>Word Sense Disambiguation</td>
-      <th>thesis</th>
       <th></th>
     </tr>
     <tr>
-      <td>8</td>
+      <td>📃</td>
       <td>Named Entity Recognition</td>
-      <th>report</th>
       <th></th>
     </tr>
     <tr>
-      <td>9</td>
+      <td>📃</td>
       <td>Extractive Summarization</td>
-      <th>report</th>
       <th></th>
     </tr>
     <tr>
-      <td>9</td>
+      <td>📃</td>
       <td>Extractive Summarization</td>
-      <th>report</th>
       <th></th>
     </tr>
     <tr>
-      <td>10</td>
+      <td>📃</td>
       <td>Reinforcement Learning</td>
-      <th>report</th>
       <th></th>
     </tr>
     <tr>
-      <td>11</td>
+      <td>📃</td>
       <td>Reinforcement Learning</td>
-      <th>report</th>
       <th></th>
     </tr>
     <tr>
-      <td>12</td>
+      <td>📃</td>
       <td>Reinforcement Learning</td>
-      <th>report</th>
       <th></th>
     </tr>
     <tr>
-      <td>13</td>
+      <td>🔬</td>
       <td>Continual Learning</td>
-      <th>paper</th>
       <th></th>
     </tr>
     <tr>
-      <td>14</td>
-      <td>NeSy</td>
-      <th>paper</th>
+      <td>🔬</td>
+      <td>Neural-Symbolic Learning</td>
       <th></th>
     </tr>
   </tbody>
