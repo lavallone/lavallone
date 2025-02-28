@@ -13,8 +13,8 @@
 
 ```yaml
 name: Leonardo Lavalle
-located_in: Rome, Italy
-current_job: AI freelancer
+located_in: Rome, Italy 🇮🇹
+current_job: NLP researcher
 education:
   [
     "Master's in AI and Robotics",
@@ -23,16 +23,16 @@ education:
 
 fields_of_interests:
   [
-    "Machine Learning",
-    "Human Robot Interaction",
-    "Renforcement Learning",
-    "Computer Vision",
-    "Natural Language Processing",
-    "Large Language Models"
+    "Machine Learning 📈",
+    "Human Robot Interaction 🤖",
+    "Reinforcement Learning 💪",
+    "Computer Vision 👁️",
+    "Natural Language Processing 🔤",
+    "Large Language Models ⚡"
   ]
   
 currently_working_on: ["Real-time video classification"]
-hobbies: ["Sport", "Rugby", "Hyking", "Coffee"]
+hobbies: ["Rugby 🏉", "Travels ✈️", "Dance Music 🕺", "Coffee ☕"]
 ```
 <h2 align="left">📃🔬 Scientific Papers and Reports</h2>
 <!DOCTYPE html>
@@ -102,7 +102,7 @@ hobbies: ["Sport", "Rugby", "Hyking", "Coffee"]
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>&nbsp;
-   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
