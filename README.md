@@ -1,4 +1,4 @@
-<a align="center" href="https://imgur.com/cReol3y"><img src="https://i.imgur.com/cReol3y.gif" height=500 title="source: imgur.com" /></a>
+<a align="center" href="https://imgur.com/axJvYzq"><img src="https://i.imgur.com/axJvYzq.gif" height=500 title="source: imgur.com" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavallone&label=Profile%20views&color=blueviolet&style=flat" alt="lavallone" />
