@@ -7,6 +7,8 @@
   <a href="mailto:leo.lava99@gmail.com"> <img src="https://img.shields.io/badge/Email-leo.lava99@gmail.com-red?logo=gmail&logoColor=white" alt="Email"> </a>
   <a href="https://www.linkedin.com/in/leonardo-lavalle-18445193/"> <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Lavalle-blue?logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 </p>
+<!-- ![Public Repos](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/lavallone/1290f77e79e35af30b56b759f0d057f0/raw/repo-count.json) -->
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&descAlignY=75" />
 <h2 align="left">👨‍💻 About Me:</h2>
