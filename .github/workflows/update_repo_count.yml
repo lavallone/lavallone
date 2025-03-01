@@ -20,7 +20,7 @@ jobs:
 
       - name: Update Gist with new count
         run: |
-          GIST_ID="YOUR_GIST_ID"
+          GIST_ID="1290f77e79e35af30b56b759f0d057f0"
           TOKEN="${{ secrets.GIST_SECRET }}"
 
           # Create updated JSON content
