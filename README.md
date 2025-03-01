@@ -54,7 +54,7 @@ hobbies: ["Rugby 🏉", "Travels ✈️", "Dance Music 🕺", "Coffee ☕"]
     <tr>
       <td>🔬</td>
       <td>Anomaly Detection</td>
-      <th></th>
+      <th>Unsupervised anomaly detection in industrial image data with autoencoders</th>
     </tr>
     <tr>
       <td>📃</td>
@@ -64,67 +64,67 @@ hobbies: ["Rugby 🏉", "Travels ✈️", "Dance Music 🕺", "Coffee ☕"]
     <tr>
       <td>🔬</td>
       <td>Planning and Reasoning</td>
-      <th></th>
+      <th>Learning and Reasoning as <i>yin and yang</i> of future AI</th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Event Detection</td>
-      <th></th>
+      <th>NLP Homework 1: Event Detection</th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Word Sense Disambiguation</td>
-      <th></th>
+      <th>NLP Homework 2: Word Sense Disambiguation</th>
     </tr>
     <tr>
       <td>🔬</td>
       <td>Word Sense Disambiguation</td>
-      <th></th>
+      <th>Analyzing Homonymy Disambiguation Capabilities of Pretrained Language Models</th>
     </tr>
     <tr>
       <td>🔬</td>
       <td>Word Sense Disambiguation</td>
-      <th></th>
+      <th>Word Sense Disambiguation: a Semantic Journey from Sense Granularity to Large Language Models</th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Named Entity Recognition</td>
-      <th></th>
+      <th>NUANS Homework 1a: Named Entity Recognition</th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Extractive Summarization</td>
-      <th></th>
+      <th>NUANS Homework 2: Extractive Summarization</th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Extractive Summarization</td>
-      <th></th>
+      <th>Extractive Summarization as Text Matching on FairySum</th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Reinforcement Learning</td>
-      <th></th>
+      <th>RL Assignment 1</th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Reinforcement Learning</td>
-      <th></th>
+      <th>RL Assignment 2</th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Reinforcement Learning</td>
-      <th></th>
+      <th>RL Assignment 3</th>
     </tr>
     <tr>
       <td>🔬</td>
       <td>Continual Learning</td>
-      <th></th>
+      <th>Addressing Catastrophic Forgetting: Paving the Path to Overcoming Memory Loss</th>
     </tr>
     <tr>
       <td>🔬</td>
       <td>Neural-Symbolic Learning</td>
-      <th></th>
+      <th>NeSy: the key enabler to the next generation of AI?</th>
     </tr>
   </tbody>
 </table>
