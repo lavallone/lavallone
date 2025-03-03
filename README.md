@@ -57,77 +57,77 @@ hobbies: ["Rugby 🏉", "Travels ✈️", "Dance Music 🕺", "Coffee ☕"]
     <tr>
       <td>🔬</td>
       <td>Anomaly Detection</td>
-      <th>Unsupervised anomaly detection in industrial image data with autoencoders</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/EAI/EAI_anomaly_detection.pdf" target="_blank">Unsupervised anomaly detection in industrial image data with autoencoders</a></th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Human Robot Interaction</td>
-      <th>EnviroMate: the social robot which raises awareness among students about recycling</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/EAI/EnviroMate.pdf" target="_blank">EnviroMate: the social robot which raises awareness among students about recycling</a></th>
     </tr>
     <tr>
       <td>🔬</td>
       <td>Planning and Reasoning</td>
-      <th>Learning and Reasoning as <i>yin and yang</i> of future AI</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/PR/P_R.pdf" target="_blank">Learning and Reasoning as <i>yin and yang</i> of future AI</a></th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Event Detection</td>
-      <th>NLP Homework 1: Event Detection</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/NLP/Homework_1__Event_Detection.pdf" target="_blank">NLP Homework 1: Event Detection</a></th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Word Sense Disambiguation</td>
-      <th>NLP Homework 2: Word Sense Disambiguation</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/NLP/Homework_2__Word_Sense_Disambiguation.pdf" target="_blank">NLP Homework 2: Word Sense Disambiguation</a></th>
     </tr>
     <tr>
       <td>🔬</td>
       <td>Word Sense Disambiguation</td>
-      <th>Analyzing Homonymy Disambiguation Capabilities of Pretrained Language Models</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/NLP/_LREC_COLING_2024_Homonym_Disambiguation.pdf" target="_blank">Analyzing Homonymy Disambiguation Capabilities of Pretrained Language Models</a></th>
     </tr>
     <tr>
       <td>🔬</td>
       <td>Word Sense Disambiguation</td>
-      <th>Word Sense Disambiguation: a Semantic Journey from Sense Granularity to Large Language Models</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/NLP/Master_Thesis.pdf" target="_blank">Word Sense Disambiguation: a Semantic Journey from Sense Granularity to Large Language Models</a></th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Named Entity Recognition</td>
-      <th>NUANS Homework 1a: Named Entity Recognition</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/NLP/NUANS___Homework_1a_NER.pdf" target="_blank">NUANS Homework 1a: Named Entity Recognition</a></th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Extractive Summarization</td>
-      <th>NUANS Homework 2: Extractive Summarization</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/NLP/NUANS___Homework_2_Extractive_Summary.pdf" target="_blank">NUANS Homework 2: Extractive Summarization</a></th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Extractive Summarization</td>
-      <th>Extractive Summarization as Text Matching on FairySum</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/NLP/NUANS___Miniproject.pdf" target="_blank">Extractive Summarization as Text Matching on FairySum</a></th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Reinforcement Learning</td>
-      <th>RL Assignment 1</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/RL/Assignment_01.pdf" target="_blank">RL Assignment 1</a></th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Reinforcement Learning</td>
-      <th>RL Assignment 2</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/RL/Assignment_02.pdf" target="_blank">RL Assignment 2</a></th>
     </tr>
     <tr>
       <td>📃</td>
       <td>Reinforcement Learning</td>
-      <th>RL Assignment 3</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/RL/Assignment_03.pdf" target="_blank">RL Assignment 3</a></th>
     </tr>
     <tr>
       <td>🔬</td>
       <td>Continual Learning</td>
-      <th>Addressing Catastrophic Forgetting: Paving the Path to Overcoming Memory Loss</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/seminars/Continual_Learning.pdf" target="_blank">Addressing Catastrophic Forgetting: Paving the Path to Overcoming Memory Loss</a></th>
     </tr>
     <tr>
       <td>🔬</td>
       <td>Neural-Symbolic Learning</td>
-      <th>NeSy: the key enabler to the next generation of AI?</th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/seminars/NeSy.pdf" target="_blank">NeSy: the key enabler to the next generation of AI?</a></th>
     </tr>
   </tbody>
 </table>
