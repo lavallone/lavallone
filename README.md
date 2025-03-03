@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavallone&label=Profile%20views&color=blueviolet&style=flat" alt="lavallone" />
   <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/lavallone/1290f77e79e35af30b56b759f0d057f0/raw/repo-count.json" alt="Repositories">
-  <img src="https://img.shields.io/badge/Commits%20this%20month-0-orange" alt="Commits this month">
+  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/lavallone/f1ca5211eeb5fff39beded622a969c37/raw/commit-count.json" alt="Commits this month">
   <a href="mailto:leo.lava99@gmail.com"> <img src="https://img.shields.io/badge/Email-leo.lava99@gmail.com-red?logo=gmail&logoColor=white" alt="Email"> </a>
   <a href="https://www.linkedin.com/in/leonardo-lavalle-18445193/"> <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Lavalle-blue?logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 </p>
