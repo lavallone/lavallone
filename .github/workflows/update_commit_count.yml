@@ -1,0 +1,38 @@
+name: Update Commit Count Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get commit count for the current month
+        id: commit_count
+        run: |
+          OWNER=${{ github.repository_owner }}
+          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
+          CURRENT_MONTH=$(date +"%Y-%m")
+          
+          COUNT=$(curl -s -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/$OWNER/$REPO/commits?since=$CURRENT_MONTH-01T00:00:00Z" | jq '. | length')
+          
+          echo "commit_count=$COUNT" >> $GITHUB_ENV
+
+      - name: Update Gist with new count
+        run: |
+          GIST_ID="f1ca5211eeb5fff39beded622a969c37"
+          TOKEN="${{ secrets.GIST_SECRET }}"
+
+          JSON=$(jq -n --arg count "$commit_count" \
+            '{"schemaVersion": 1, "label": "Commits this month", "message": $count, "color": "orange"}')
+
+          curl -X PATCH "https://api.github.com/gists/$GIST_ID" \
+            -H "Authorization: token $TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            -d "{\"files\": {\"commit-count.json\": {\"content\": \"$JSON\"}}}"
