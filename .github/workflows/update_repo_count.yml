@@ -31,6 +31,6 @@ jobs:
           curl -X PATCH "https://api.github.com/gists/$GIST_ID" \
             -H "Authorization: token $TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
-            -d "$(jq -n --argjson json "$JSON" '{"files": {"repo-count.json": {"content": $json}}}')"
+            -d "$(jq -n --argjson json "$JSON" '{"files": {"repo-count.json": {"content": $json | tostring}}}')"
 
           #-d "{\"files\": {\"repo-count.json\": {\"content\": \"$JSON\"}}}"
