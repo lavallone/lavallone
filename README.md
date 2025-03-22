@@ -27,6 +27,7 @@ fields_of_interests:
   [
     "Machine Learning 📈",
     "Human Robot Interaction 🤖",
+    "Knowledge Representation 🧠",
     "Reinforcement Learning 💪",
     "Computer Vision 👁️",
     "Natural Language Processing 🔤",
