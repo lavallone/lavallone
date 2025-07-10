@@ -57,7 +57,8 @@ hobbies: ["Rugby 🏉", "Travels ✈️", "Dance Music 🕺", "Coffee ☕"]
     <tr>
       <td>🔬</td>
       <td>Anomaly Detection</td>
-      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/EAI/EAI_anomaly_detection.pdf" target="_blank">Unsupervised anomaly detection in industrial image data with autoencoders</a></th>
+      <th><a href="https://raw.githubusercontent.com/lavallone/archive/main/EAI/EAI_anomaly_detection.pdf" target="_blank">Anomaly Detection in Industrial Settings: Are
+Autoencoders Still Enough?</a></th>
     </tr>
     <tr>
       <td>📃</td>
