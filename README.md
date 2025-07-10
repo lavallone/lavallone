@@ -34,7 +34,7 @@ fields_of_interests:
     "Large Language Models ⚡"
   ]
   
-currently_working_on: ["Real-time video classification"]
+currently_working_on: ["something"]
 hobbies: ["Rugby 🏉", "Travels ✈️", "Dance Music 🕺", "Coffee ☕"]
 ```
 <h2 align="left">📃🔬 Scientific Papers and Reports</h2>
