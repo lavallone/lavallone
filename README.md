@@ -16,7 +16,7 @@
 ```yaml
 name: Leonardo Lavalle
 located_in: Rome, Italy 🇮🇹
-current_job: NLP researcher
+current_job: NLP Researcher
 education:
   [
     "Master's in AI and Robotics",
