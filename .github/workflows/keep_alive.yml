@@ -1,0 +1,28 @@
+name: Keep Repo Active
+
+on:
+  schedule:
+    - cron: '0 0 */59 * *'  # Runs every 59 days at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update timestamp
+        run: |
+          echo "Last updated: $(date -u)" > .last-active.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .last-active.txt
+          git commit -m "chore: keep repo active"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
